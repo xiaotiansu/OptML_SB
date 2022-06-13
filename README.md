@@ -9,13 +9,18 @@ Simplicity bias is an already widely studied phenomenon in the field of deep neu
 
 `data/:` dataset for MNIST, twitter sentiment, embedding of tweets
 
-`experiment_results/:` results for all the experiments.
+`experiment_results/:` results for all the experiments. (The part of results for simplicity bias is in the notebook "Synthetic_data_exp.ipynb")
 
-`figures/:` all the figures we used in the report.
+`figures/:` all the figures we used in the report. (The part of images for simplicity bias is in the notebook "Synthetic_data_exp.ipynb")
 
 `sb_in_nlp.ipynb:` application of simplicity bias in natural language processing.
 
 `test_bigData.ipynb:` experiments on MNIST dataset with Adam and SGD (Appendix B).
 
-`test_smalldata:` experiments on the small dataset and landscape detection.
+`test_smalldata.ipynb:` experiments on the small dataset and landscape detection.
+
+`Synthetic_data_exp.ipynb:` experiments on simplicity bias.
+
+`scripts/:` some python scripts that being called by the experiments related to simplicity bias.
+
 
