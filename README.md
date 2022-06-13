@@ -7,11 +7,11 @@ Simplicity bias is an already widely studied phenomenon in the field of deep neu
 
 ## Project structure
 
-`data:` dataset for MNIST, twitter sentiment, embedding of tweets
+`data/:` dataset for MNIST, twitter sentiment, embedding of tweets
 
-`experiment_results:` all the experimental results.
+`experiment_results/:` results for all the experiments.
 
-`figures:` all the figures we used in the report.
+`figures/:` all the figures we used in the report.
 
 `sb_in_nlp.ipynb:` application of simplicity bias in natural language processing.
 
