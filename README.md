@@ -1,4 +1,4 @@
-# OptML_SB
+# Connection between simplicity bias and small dataset training
 Mini-project for CS-439 OptML
 
 ## Abstract
