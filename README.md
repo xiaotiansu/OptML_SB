@@ -21,7 +21,10 @@ Simplicity bias is an already widely studied phenomenon in the field of deep neu
 
 `test_bigData.ipynb:` experiments on MNIST dataset with Adam and SGD (Appendix B).
 
-`test_smalldata.ipynb:` experiments on the small dataset and landscape detection, all errors are keyboard interrupt with results saved in the `experiment_results/`.
+`test_smalldata.ipynb:` experiments on the small dataset and landscape detection. Note that there all errors are keyboard interrupt since it takes several hours to run all the experiments and the results saved in the `experiment_results/`.
 
+## Team Members
 
-
+* Bonan Sun - bonan.sun@epfl.ch
+* Xiaotian Su - xiaotian.su@epfl.ch
+* Yuxing Yao - yuxing.yao@epfl.ch
